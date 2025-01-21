@@ -1,0 +1,52 @@
+Medical Case Report
+Patient ID: 678901
+Name: Emily Carter
+Age: 24
+Gender: Female
+Date of Report: 2025-01-15
+
+Chief Complaint:
+The patient reports experiencing intermittent abdominal pain, diarrhea, and unintentional weight loss of 8 lbs over the past three months. Symptoms are accompanied by fatigue and occasional blood in the stool.
+
+Medical History:
+
+Family History:
+Mother has Crohn’s disease; father has no significant medical history.
+
+Personal Medical History:
+No prior history of gastrointestinal issues. Diagnosed with iron-deficiency anemia at age 22.
+
+Lifestyle Factors:
+The patient is a university student, follows an irregular diet due to academic stress, and consumes coffee daily. Denies smoking or alcohol use.
+
+Medications:
+Oral iron supplements (325 mg daily), occasional ibuprofen for headaches.
+
+Recent Lab and Diagnostic Results:
+Complete Blood Count (CBC): Hemoglobin 10.2 g/dL, hematocrit 32%, MCV 74 fL (microcytic anemia).
+Fecal Calprotectin: Elevated at 250 µg/g (indicating inflammation).
+Colonoscopy: Evidence of inflamed and ulcerated patches in the terminal ileum.
+Biopsy Results: Granulomas consistent with Crohn's disease.
+C-Reactive Protein (CRP): 15 mg/L (elevated).
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 118/76 mmHg, heart rate 90 bpm, BMI 20.1.
+Abdominal Exam: Mild tenderness in the right lower quadrant, no palpable masses or organomegaly.
+Other Systems: Normal findings.
+
+Impression:
+The findings suggest Crohn's Disease with active inflammation in the terminal ileum. The condition aligns with the patient’s symptoms of abdominal pain, diarrhea, weight loss, and anemia.
+
+Management Plan:
+Medical Therapy:
+Start budesonide (9 mg daily) for acute inflammation.
+Consider azathioprine for maintenance therapy.
+Continue iron supplementation for anemia.
+
+Lifestyle Modifications:
+Referral to a dietitian for a low-residue diet during flare-ups.
+Encourage regular meals and hydration.
+
+Follow-up:
+Monitor symptoms and inflammatory markers (CRP, fecal calprotectin) after 6 weeks of therapy.
+Schedule a follow-up colonoscopy in 12 months.

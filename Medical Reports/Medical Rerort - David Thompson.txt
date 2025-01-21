@@ -1,0 +1,35 @@
+Medical Case Report
+Patient ID: 567890
+Name: David Thompson
+Age: 42
+Gender: Male
+Date of Report: 2025-01-18
+
+Chief Complaint:
+The patient presents with frequent heartburn, nausea, bloating, and a persistent sour taste in the mouth. Symptoms are exacerbated after meals and at night, interfering with sleep.
+
+Medical History:
+Family History:
+Father has a history of GERD and esophageal stricture; mother has hypertension.
+
+Personal Medical History:
+Hypertension: Diagnosed at age 40; managed with lifestyle changes and medication.
+Dyslipidemia: Diagnosed at age 39; managed with statins.
+
+Lifestyle Factors:
+The patient works a sedentary office job, consumes 2-3 cups of coffee daily, and reports occasional alcohol intake. Exercises twice weekly.
+
+Medications:
+Amlodipine (5 mg daily).
+Atorvastatin (20 mg daily).
+Antacids (as needed for heartburn).
+
+Recent Lab and Diagnostic Results:
+Upper Endoscopy: Evidence of mild esophagitis and a small hiatal hernia; no Barrett's esophagus or malignancy.
+24-hour pH Monitoring: Frequent acid reflux episodes with pH < 4, correlating with symptoms.
+H. pylori Test: Negative.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 138/84 mmHg, heart rate 78 bpm, BMI 29.3.
+Abdominal Exam: Mild epigastric tenderness; no organomegaly or masses detected.
+Cardiovascular Exam: Normal findings.

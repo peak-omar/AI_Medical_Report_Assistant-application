@@ -1,0 +1,37 @@
+Medical Case Report
+
+Patient ID: 456789
+Name: Sarah Mitchell
+Age: 35
+Gender: Female
+Date of Report: 2025-01-15
+
+Chief Complaint:
+The patient reports frequent episodes of intense fatigue, muscle weakness, joint pain, and stiffness, particularly in the morning. Symptoms have been worsening over the past six months, with occasional swelling in the fingers and wrists.
+
+Medical History:
+Family History:
+Mother has rheumatoid arthritis; father has type 2 diabetes.
+
+Personal Medical History:
+Migraine: Diagnosed at age 28; managed with NSAIDs and triptans.
+Seasonal Allergies: Diagnosed at age 30; managed with antihistamines.
+
+Lifestyle Factors:
+The patient works as a teacher, reports moderate stress levels, and practices yoga twice a week. She follows a predominantly vegetarian diet and does not smoke or consume alcohol.
+
+Medications:
+Ibuprofen (200 mg as needed), Fexofenadine (180 mg daily during allergy season).
+
+Recent Lab and Diagnostic Results:
+Complete Blood Count (CBC): Normal white cell count, mild anemia detected (Hb 10.8 g/dL).
+Rheumatoid Factor (RF): Elevated at 40 IU/mL.
+Anti-CCP Antibodies: Positive.
+Erythrocyte Sedimentation Rate (ESR): 45 mm/hr (elevated).
+C-Reactive Protein (CRP): Elevated at 18 mg/L.
+X-rays of Hands and Wrists: Early signs of joint erosion and mild soft tissue swelling.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 116/74 mmHg, heart rate 76 bpm, BMI 22.8.
+Musculoskeletal Exam: Tenderness and swelling in the proximal interphalangeal (PIP) joints, metacarpophalangeal (MCP) joints, and wrists bilaterally.
+Other Systems: Normal findings.
