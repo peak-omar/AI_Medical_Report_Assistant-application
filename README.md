@@ -69,8 +69,8 @@ In future iterations, the system aims to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MGJillaniMughal/AI_Medical_Report_Assistant.git
-   cd AI_Medical_Report_Assistant
+   git clone https://github.com/peak-omar/AI_Medical_Report_Assistant-application.git
+   cd AI_Medical_Report_Assistant application
    ```
 
 2. Install required dependencies:
@@ -123,5 +123,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any queries, feel free to reach out via:
-- **GitHub Issues**: [Issues](https://github.com/MGJillaniMughal/AI_Medical_Report_Assistant/issues)
-- **Email**: m.g.jillani123@gmail.com
+- **Email**: supax82@gmail.com
